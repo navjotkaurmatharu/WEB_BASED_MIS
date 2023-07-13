@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+
+.maintop{
+
+	margin-top:10px !important;
+
+}
+
+.btnorange{
+
+	background-color:#f55d2c !important;
+
+	color:#fff !important;
+
+}
+
+.btnborderzero{
+
+	border-radius:0px !important;
+
+}
+
+.customheading h4{
+
+	font-size: 16px !important;
+
+    font-weight: 500 !important;
+
+    color: #2b2f4c !important;
+
+    margin-bottom: 0 !important;
+
+}
+
+.view-employeecss{
+
+	float:left;
+
+	font-size:12px !important;
+
+	color:#000 !important;
+
+}
+input[type="checkbox"]:checked::before {
+    color: #000;
+    content: "✓" !important;
+    
+}
+
+
